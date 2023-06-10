@@ -15,7 +15,7 @@ Burada kişi bilgilerini alıp kaç kişi kalacaklarını öğrendikten sonra ki
 
 
 
-Ödeme bilgileri kısmına geldiğimizde giriş ve çıkış tarihleri farkı gün alanına yansıyor. Gün alanı ile günlük ücret otomatik olarak çarpılıp tutar alanına yansıyor. Ödeme türü alanında nakit veya kredi kartı seçenekleri seçilebiliyor ama otelin isteğine göre bu kısım değişiklik gösterebilir.
+Görüldüğü üzere günlük ücret alanına yansıdı. Ödeme bilgileri kısmına geldiğimizde giriş ve çıkış tarihleri farkı gün alanına yansıyor. Gün alanı ile günlük ücret otomatik olarak çarpılıp tutar alanına yansıyor. Ödeme türü alanında nakit veya kredi kartı seçenekleri seçilebiliyor ama otelin isteğine göre bu kısım değişiklik gösterebilir.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/5196b398-f4e8-493b-aba4-660df0bc8c49)
 
