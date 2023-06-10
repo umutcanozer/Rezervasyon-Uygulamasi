@@ -15,9 +15,12 @@ Burada kişi bilgilerini alıp kaç kişi kalacaklarını öğrendikten sonra ki
 Oda sayısı ve kat sayısı otele göre değişiklik gösterebilir. Seçtiğimiz odaya göre günlük ücret alanına otomatik yansıyor. Seçilen oda alanı da otomatik beliriyor. 
 
 
+
+
 Ödeme bilgileri kısmına geldiğimizde giriş ve çıkış tarihleri farkı gün alanına yansıyor. Gün alanı ile günlük ücret otomatik olarak çarpılıp tutar alanına yansıyor. Ödeme türü alanında nakit veya kredi kartı seçenekleri seçilebiliyor ama otelin isteğine göre bu kısım değişiklik gösterebilir.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/5196b398-f4e8-493b-aba4-660df0bc8c49)
+
 
 
 
@@ -26,9 +29,13 @@ Eğer kişi odasını değiştirmek ya da iptal etmek isterse sil butonu ile olu
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/beba077d-a8a0-4c73-94b5-02b6bf485595)
 
 
+
+
 Eğer oda doluysa, uygulama kayıt almıyor ve uyarı verir.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/c9758cbc-4760-474e-84b6-4159c98c00fa)
+
+
 
 
 Eğer kayıt bilgilerinde eksiklik varsa, program kayıt almaz ve uyarı verir.
