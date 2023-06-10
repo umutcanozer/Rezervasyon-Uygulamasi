@@ -11,6 +11,7 @@ Ben bu uygulamayı yaparken bir resepsiyonistim gibi düşündüm ve bana en kol
 Burada kişi bilgilerini alıp kaç kişi kalacaklarını öğrendikten sonra kişi sayısına göre kat bilgisi aktifleşiyor. Aktifleşen katta bizi 4 adet oda karşılıyor. 
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/20545d97-130d-45f4-a6c1-6cd966a45443)
+
 Oda sayısı ve kat sayısı otele göre değişiklik gösterebilir. Seçtiğimiz odaya göre günlük ücret alanına otomatik yansıyor. Seçilen oda alanı da otomatik beliriyor. 
 
 
