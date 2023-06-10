@@ -28,7 +28,9 @@ Eğer oda doluysa, uygulama kayıt almıyor ve uyarı verir.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/c9758cbc-4760-474e-84b6-4159c98c00fa)
 
+
 Eğer kayıt bilgilerinde eksiklik varsa, program kayıt almaz ve uyarı verir.
 
-![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/b868abde-5487-439b-96f2-168eea490584)
+ ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/83638c80-b7f8-49b5-8eb8-a201cd500f78)
+
 
