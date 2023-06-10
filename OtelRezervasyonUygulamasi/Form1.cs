@@ -176,7 +176,11 @@ namespace OtelRezervasyonUygulamasi
 
         private void button23_Click(object sender, EventArgs e)
         {
-            listView1.Items.Clear();
+            if(listView1.SelectedItems.Count > 0)
+            {
+                ListViewItem selectedRow = listView1.SelectedItems[0];
+                listView1.Items.Remove(selectedRow); 
+            }
         }
     }
 }
