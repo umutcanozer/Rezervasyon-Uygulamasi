@@ -4,7 +4,7 @@ Uygulamamızın genel tasarımı budur.
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/7a47510c-9287-4d06-8c0e-523a29c30233)
 
 
-Ben bu uygulamayı yaparken bir resepsiyonistim gibi düşündüm ve bana en kolay gelebilecek şekilde bu uygulamayı tasarladım. Uygulama başlangıcında bizi bir adet bilgi alanı karşılamaktadır. Bu alanda müşteriden alacağınız bilgiler doğrultusunda kaydım yapabileceksiniz. Uygulamanın geri kalan özelliklerini diğer adımlarda gösterdim.
+Ben bu uygulamayı yaparken bir resepsiyonistim gibi düşündüm ve bana en kolay gelebilecek şekilde bu uygulamayı tasarladım. Uygulama başlangıcında bizi bir adet bilgi alanı karşılamaktadır. Bu alanda müşteriden alacağınız bilgiler doğrultusunda kaydı yapabileceksiniz. Uygulamanın geri kalan özelliklerini diğer adımlarda gösterdim.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/ba5ecaeb-6e23-49b4-b393-03c91651c3f5)
 
