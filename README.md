@@ -1,4 +1,4 @@
-# bst206-final Windows Form ile Rezervasyon Uygulaması Projesi
+# Windows Form ile Rezervasyon Uygulaması Projesi
 Uygulamamızın genel tasarımı budur.
 
 ![image](https://github.com/umutcanozer/Rezervasyon-Uygulamasi/assets/102672243/7a47510c-9287-4d06-8c0e-523a29c30233)
